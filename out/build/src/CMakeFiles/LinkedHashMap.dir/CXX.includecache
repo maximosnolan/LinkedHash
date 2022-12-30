@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maximosn/linkedhashmap/src/LinkedHashMap.cc
+LinkedHashMap.hpp
+/home/maximosn/linkedhashmap/src/LinkedHashMap.hpp
+
+/home/maximosn/linkedhashmap/src/LinkedHashMap.hpp
+iostream
+-
+unordered_map
+-
+list
+-
+memory
+-
+list
+-
+stdexcept
+-
+

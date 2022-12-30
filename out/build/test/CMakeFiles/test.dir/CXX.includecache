@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maximosn/linkedhashmap/test/test.cpp
+LinkedHashMap.h
+/home/maximosn/linkedhashmap/test/LinkedHashMap.h
+

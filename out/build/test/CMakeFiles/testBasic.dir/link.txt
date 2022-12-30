@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/testBasic.dir/testBasic.cc.o  -o testBasic  -lLINKEDHASHMAP_LIBRARY -lLINKEDHASHSET_LIBRARY 
